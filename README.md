@@ -9,7 +9,7 @@
 <br>
 
 - Paul Hudson의 한 시간 Swift: https://youtu.be/n5X_V81OYnQ?si=VanTEMPFhWpo71Qq
-- [AppStuff의 Programming Fundamentals with Swift](https://youtube.com/playlist?list=PLRcTS2CSnBfMbk7n5SYBQQhL6iyRf2i81&si=uN-3OfSdwAzgQW47)
+- AppStuff의 Programming Fundamentals with Swift: https://youtube.com/playlist?list=PLRcTS2CSnBfMbk7n5SYBQQhL6iyRf2i81&si=uN-3OfSdwAzgQW47
 <br>
 
 ### SwiftUI 관련 사이트 및 강의
