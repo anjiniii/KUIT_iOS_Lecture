@@ -1,0 +1,10 @@
+## User settings
+xcuserdata/
+Package.resolved
+
+## Xcode
+!*.xcworkspace/contents.xcworkspacedata
+
+*.xcconfig
+*.plist
+.DS_Store
