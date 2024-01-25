@@ -11,6 +11,8 @@
 		51E824252B62937D00A56F3A /* 01_Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_Strings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		51E824262B6294EE00A56F3A /* 02_Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_Integers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		51E824272B62994B00A56F3A /* 05_JoiningStrings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 05_JoiningStrings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		51E824282B629A4400A56F3A /* 10_TypeAnnotations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 10_TypeAnnotations.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		51E824292B629C3100A56F3A /* 19_HandlingErrorsInFunctions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 19_HandlingErrorsInFunctions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,6 +23,8 @@
 				51E824252B62937D00A56F3A /* 01_Strings.playground */,
 				51E824262B6294EE00A56F3A /* 02_Integers.playground */,
 				51E824272B62994B00A56F3A /* 05_JoiningStrings.playground */,
+				51E824282B629A4400A56F3A /* 10_TypeAnnotations.playground */,
+				51E824292B629C3100A56F3A /* 19_HandlingErrorsInFunctions.playground */,
 			);
 			sourceTree = "<group>";
 		};
