@@ -5,6 +5,7 @@
 - Swift: https://www.swift.org/
 - Swift Language Guide: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 - Swift Language Guide(한글 번역): https://bbiguduk.gitbook.io/swift/
+- Swift API Design Guidelines: https://www.swift.org/documentation/api-design-guidelines/
 <br>
 
 - Paul Hudson의 한 시간 Swift: https://youtu.be/n5X_V81OYnQ?si=VanTEMPFhWpo71Qq
