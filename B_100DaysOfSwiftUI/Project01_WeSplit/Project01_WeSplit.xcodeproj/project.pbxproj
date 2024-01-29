@@ -12,6 +12,7 @@
 		51E27A632B67757E00349232 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51E27A622B67757E00349232 /* Assets.xcassets */; };
 		51E27A662B67757E00349232 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51E27A652B67757E00349232 /* Preview Assets.xcassets */; };
 		51E27A6D2B6778CE00349232 /* ForEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E27A6C2B6778CE00349232 /* ForEachView.swift */; };
+		51E27A6F2B677BCB00349232 /* WeSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E27A6E2B677BCB00349232 /* WeSplitView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		51E27A622B67757E00349232 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51E27A652B67757E00349232 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		51E27A6C2B6778CE00349232 /* ForEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachView.swift; sourceTree = "<group>"; };
+		51E27A6E2B677BCB00349232 /* WeSplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				51E27A5E2B67757C00349232 /* Project01_WeSplitApp.swift */,
-				51E27A6C2B6778CE00349232 /* ForEachView.swift */,
 				51E27A602B67757C00349232 /* ContentView.swift */,
+				51E27A6C2B6778CE00349232 /* ForEachView.swift */,
+				51E27A6E2B677BCB00349232 /* WeSplitView.swift */,
 				51E27A622B67757E00349232 /* Assets.xcassets */,
 				51E27A642B67757E00349232 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				51E27A6D2B6778CE00349232 /* ForEachView.swift in Sources */,
 				51E27A612B67757C00349232 /* ContentView.swift in Sources */,
 				51E27A5F2B67757C00349232 /* Project01_WeSplitApp.swift in Sources */,
+				51E27A6F2B677BCB00349232 /* WeSplitView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
