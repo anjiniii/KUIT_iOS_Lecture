@@ -88,19 +88,6 @@ struct ContentView: View {
     }
 }
 
-struct TimeWeatherInfo: View {
-    let time: Int
-    
-    var body: some View {
-        VStack(spacing: 8) {
-            Text("오전 \(time)시")
-            Image(systemName: "cloud.fill")
-            Text("7º")
-        }
-        .font(.system(size: 16))
-    }
-}
-
 #Preview {
     ContentView()
 }
