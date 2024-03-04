@@ -31,15 +31,20 @@ struct ContentView: View {
                 Divider()
                 
                 ScrollView(.horizontal) {
-                    HStack {
+                    HStack(spacing: 20) {
                         VStack(spacing: 8) {
                             Text("지금")
                             Image(systemName: "cloud.fill")
                             Text("7º")
                         }
-                        .font(.headline)
+                        .font(.system(size: 16))
+                        
+                        ForEach(1 ..< 12, id: \.self) { index in
+                            TimeWeatherInfo(time: index)
+                        }
                     }
                 }
+                .scrollIndicators(.never)
             }
             .padding()
             .background(Color.indigo.opacity(0.5))
@@ -47,6 +52,19 @@ struct ContentView: View {
             .padding(.horizontal, 20)
         }
         .background(Color.indigo.opacity(0.3))
+    }
+}
+
+struct TimeWeatherInfo: View {
+    let time: Int
+    
+    var body: some View {
+        VStack(spacing: 8) {
+            Text("오전 \(time)시")
+            Image(systemName: "cloud.fill")
+            Text("7º")
+        }
+        .font(.system(size: 16))
     }
 }
 
